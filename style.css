@@ -1,0 +1,12 @@
+.flex-container{
+    background-color: yellowgreen;
+    display: flex;
+    padding: 10px;
+    gap: 10px;
+    justify-content: end;
+}
+.flex-item{
+background-color: red;
+width: 100px;
+height: 100px;
+}
